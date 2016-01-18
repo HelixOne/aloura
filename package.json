@@ -1,0 +1,23 @@
+{
+  "name": "aloura",
+  "version": "0.0.1",
+  "description": "Aloura is a MVC Appication Framework, for building real-time appications.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helixone/aloura.git"
+  },
+  "keywords": [
+    "Real",
+    "time"
+  ],
+  "author": "Zubair Lawrence",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helixone/aloura/issues"
+  },
+  "homepage": "https://github.com/helixone/aloura#readme"
+}
