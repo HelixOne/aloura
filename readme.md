@@ -1,8 +1,8 @@
-# Aloura
+# Leto
 
 
 
-Aloura is a MVC Appication Framework, for building real-time, web, mobile, desktop, console, and iot appications. 	
+Leto is a MVC Appication Framework, for building real-time, web, mobile, desktop, console, and iot appications. 	
 
 
 
